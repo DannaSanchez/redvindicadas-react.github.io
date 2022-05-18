@@ -4,7 +4,7 @@ function Navbar (){
         <nav>
             <input type="checkbox" name="check-menu" id="check-menu" />
             <label for="check-menu" class="button-menu">
-                <i class="fa-solid fa-bars fa-2xl"></i>
+                <i class="fa-solid fa-bars fa-2xl"/>
             </label>
 
             <ul class="nav-header"> 
