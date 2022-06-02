@@ -11,7 +11,7 @@ function Navbar (){
             <ul class="nav-header"> 
                 <li><Link to="home.html">Inicio</Link></li>
                 <li><Link to="/">Juega y Aprende</Link></li>
-                <li><Link to="Estudios/estudios.html">Oportunidades</Link></li>
+                <li><Link to="/">Oportunidades</Link></li>
                 <li class="redes">Redes de apoyo
                     <ul class="redes-enlaces">
                         <li><Link to="asociados.html">Asociados</Link></li>
