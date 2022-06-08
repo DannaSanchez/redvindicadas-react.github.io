@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/redvindicadasreact/static/css/main.e660a034.css",
+    "main.css": "/redvindicadasreact/static/css/main.174d602f.css",
     "main.js": "/redvindicadasreact/static/js/main.2b2e29ad.js",
     "static/media/adul-background.svg": "/redvindicadasreact/static/media/adul-background.dc85c0b66864ddb885db.svg",
     "static/media/img-pantalla-inicial.svg": "/redvindicadasreact/static/media/img-pantalla-inicial.6b0ef458e889ec7cb20c.svg",
@@ -17,11 +17,11 @@
     "static/media/descargaderecha.svg": "/redvindicadasreact/static/media/descargaderecha.70dc97f2f576f660863c5d54c86efdf6.svg",
     "static/media/computador.svg": "/redvindicadasreact/static/media/computador.9112e8ded4bbf1595b230b11d65dadf7.svg",
     "static/media/adul-linea.svg": "/redvindicadasreact/static/media/adul-linea.05f0ed7a9079be3e9e78b0fc2ec61261.svg",
-    "main.e660a034.css.map": "/redvindicadasreact/static/css/main.e660a034.css.map",
+    "main.174d602f.css.map": "/redvindicadasreact/static/css/main.174d602f.css.map",
     "main.2b2e29ad.js.map": "/redvindicadasreact/static/js/main.2b2e29ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.e660a034.css",
+    "static/css/main.174d602f.css",
     "static/js/main.2b2e29ad.js"
   ]
 }
