@@ -35,12 +35,14 @@ label{
    font-size: 18px;
 }
 
-.body-form input{
+.body-form input, .body-form textarea{
     background: #FFF8F8;
     border: 3px solid #C75C7E;
     border-radius: 5px;
-    height: 30px;
     padding: 10px;
+}
+.body-form input{
+    height: 30px;
 }
 
 .body-form button{
