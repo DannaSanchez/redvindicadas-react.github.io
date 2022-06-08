@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/redvindicadasreact/static/css/main.23290630.css",
-    "main.js": "/redvindicadasreact/static/js/main.7c24ff3a.js",
+    "main.css": "/redvindicadasreact/static/css/main.e660a034.css",
+    "main.js": "/redvindicadasreact/static/js/main.2b2e29ad.js",
     "static/media/adul-background.svg": "/redvindicadasreact/static/media/adul-background.dc85c0b66864ddb885db.svg",
+    "static/media/img-pantalla-inicial.svg": "/redvindicadasreact/static/media/img-pantalla-inicial.6b0ef458e889ec7cb20c.svg",
     "static/media/jov-background.svg": "/redvindicadasreact/static/media/jov-background.037c1404f5a8325d9920.svg",
     "static/media/adult-banner.svg": "/redvindicadasreact/static/media/adult-banner.3222b8c46c89bf6e1b97f9673fac298f.svg",
     "static/media/form.svg": "/redvindicadasreact/static/media/form.3d64b11711dbea3afa95.svg",
@@ -16,11 +17,11 @@
     "static/media/descargaderecha.svg": "/redvindicadasreact/static/media/descargaderecha.70dc97f2f576f660863c5d54c86efdf6.svg",
     "static/media/computador.svg": "/redvindicadasreact/static/media/computador.9112e8ded4bbf1595b230b11d65dadf7.svg",
     "static/media/adul-linea.svg": "/redvindicadasreact/static/media/adul-linea.05f0ed7a9079be3e9e78b0fc2ec61261.svg",
-    "main.23290630.css.map": "/redvindicadasreact/static/css/main.23290630.css.map",
-    "main.7c24ff3a.js.map": "/redvindicadasreact/static/js/main.7c24ff3a.js.map"
+    "main.e660a034.css.map": "/redvindicadasreact/static/css/main.e660a034.css.map",
+    "main.2b2e29ad.js.map": "/redvindicadasreact/static/js/main.2b2e29ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.23290630.css",
-    "static/js/main.7c24ff3a.js"
+    "static/css/main.e660a034.css",
+    "static/js/main.2b2e29ad.js"
   ]
 }
