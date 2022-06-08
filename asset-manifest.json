@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/redvindicadasreact/static/css/main.23290630.css",
+    "main.js": "/redvindicadasreact/static/js/main.7c24ff3a.js",
+    "static/media/adul-background.svg": "/redvindicadasreact/static/media/adul-background.dc85c0b66864ddb885db.svg",
+    "static/media/jov-background.svg": "/redvindicadasreact/static/media/jov-background.037c1404f5a8325d9920.svg",
+    "static/media/adult-banner.svg": "/redvindicadasreact/static/media/adult-banner.3222b8c46c89bf6e1b97f9673fac298f.svg",
+    "static/media/form.svg": "/redvindicadasreact/static/media/form.3d64b11711dbea3afa95.svg",
+    "static/media/tech_power.png": "/redvindicadasreact/static/media/tech_power.2f4cf6c685b4d24d4833.png",
+    "static/media/logo.svg": "/redvindicadasreact/static/media/logo.1e2e14cbb6122bb69ae19b6c937ac064.svg",
+    "static/media/dados.svg": "/redvindicadasreact/static/media/dados.e9c0de3a1216abbed793a322df426ad3.svg",
+    "index.html": "/redvindicadasreact/index.html",
+    "static/media/juego.svg": "/redvindicadasreact/static/media/juego.6dc0d7623df63f195c0b973ffb0f8706.svg",
+    "static/media/book.svg": "/redvindicadasreact/static/media/book.976c0e8ce8550736bb28e1a636205734.svg",
+    "static/media/icon-descarga.svg": "/redvindicadasreact/static/media/icon-descarga.672004b08b562a3deb80fdb218ce5fc2.svg",
+    "static/media/descargaderecha.svg": "/redvindicadasreact/static/media/descargaderecha.70dc97f2f576f660863c5d54c86efdf6.svg",
+    "static/media/computador.svg": "/redvindicadasreact/static/media/computador.9112e8ded4bbf1595b230b11d65dadf7.svg",
+    "static/media/adul-linea.svg": "/redvindicadasreact/static/media/adul-linea.05f0ed7a9079be3e9e78b0fc2ec61261.svg",
+    "main.23290630.css.map": "/redvindicadasreact/static/css/main.23290630.css.map",
+    "main.7c24ff3a.js.map": "/redvindicadasreact/static/js/main.7c24ff3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23290630.css",
+    "static/js/main.7c24ff3a.js"
+  ]
+}
